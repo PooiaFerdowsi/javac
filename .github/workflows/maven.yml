@@ -19,6 +19,6 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Maven
-      run: javac src/Main.java
+      run: javac src/Mn.java
     - name: run java 
-      run: java src/Main
+      run: java Mn
