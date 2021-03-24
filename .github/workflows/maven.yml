@@ -21,4 +21,4 @@ jobs:
     - name: Build with Maven
       run: javac src/Main.java
     - name: run java 
-      run: java Main
+      run: java src/Main
