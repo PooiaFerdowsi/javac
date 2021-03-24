@@ -9,4 +9,7 @@ class Tokenizer {
                      break;
            }
      }
+     public state go(){
+           System.out.print("\n go");
+    }
 }
