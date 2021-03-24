@@ -1,5 +1,5 @@
 public class Main {
-       public static void main(String s[]){
+       public static void main(String[] s){
             System.out.print("asfl");
        }
 }
